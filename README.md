@@ -1,5 +1,4 @@
-ex3
-written by Assma Zurba 323139782
+written by Assma Zurba
 
 ==description==
 the program receives a command from the user,
